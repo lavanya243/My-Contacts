@@ -1,0 +1,72 @@
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding: 25px;
+  max-width: 400px;
+  min-width: 400px;
+  background-image: url("https://images.unsplash.com/photo-1607457561901-e6ec3a6d16cf?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGlua3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+  /*background-color: #ffe6f3;*/
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+  font-size: 2em;
+  color: #33001a;
+  margin: 20px 0 30px;
+}
+
+.card {
+  border-radius: 25px;
+  position: relative;
+  padding: 25px 15px;
+  background-color: #ffe6f3;
+  margin: 50px 0;
+  height: 200px;
+  box-shadow: 0 2px 5px #ccc;
+  text-align: left;
+}
+
+.top {
+  border-radius: 25px 25px 0 0;
+  height: 100px;
+  width: 100%;
+  background-color: #ff0066;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+}
+
+.name {
+  font-size: 1.5em;
+  color: #4d0028;
+  display: flex;
+  flex: 1;
+  margin: 10% 20px 0;
+}
+
+.card img {
+  margin: 30px 20px 0 0;
+}
+
+.circle-img {
+  border-radius: 50%;
+  border: 7px solid #fff;
+  width: 120px;
+  height: 120px;
+}
+
+.bottom {
+  margin-top: 120px;
+}
+
+.info {
+  margin: 20px 0;
+  color: #4d0028;
+}
+
+img {
+  height: 7cm;
+  width: 7cm;
+}
