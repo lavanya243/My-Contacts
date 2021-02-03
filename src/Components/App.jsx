@@ -9,7 +9,7 @@ function createCard(contact) {
       key={contact.id}
       name={contact.name}
       img={contact.img}
-      tel={contact.phone}
+      phone={contact.phone}
       email={contact.email}
     />
   );
