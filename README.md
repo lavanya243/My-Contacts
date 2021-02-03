@@ -1,2 +1,4 @@
-# My_Contact_App1
-Created with CodeSandbox
+# My-Contacts
+Application created with CodeSandbox using React 
+Concepts covered - Components, Mapping
+
